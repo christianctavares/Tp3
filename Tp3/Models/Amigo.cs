@@ -13,7 +13,7 @@ namespace Tp3.Models
         public string Email { get; set; }
         public string Telefone { get; set; }
         public DateTime DataNiver { get; set; }
-
+        //teste
         public Amigo()
         {
 
